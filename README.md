@@ -1,6 +1,7 @@
 # Project-Runner
 2D-Platform-Action-Game
 
+Credit By Osman Cengeri and Berke Balcidan
 
 All stats can be change on the panel.
 
